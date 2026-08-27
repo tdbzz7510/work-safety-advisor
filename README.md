@@ -70,13 +70,13 @@ work-safety-advisor/
 
 ```bash
 # WorkBuddy
-git clone https://github.com/<你的用户名>/work-safety-advisor ~/.workbuddy/skills/work-safety-advisor
+git clone https://github.com/tdbzz7510/work-safety-advisor ~/.workbuddy/skills/work-safety-advisor
 
 # Claude Code
-git clone https://github.com/<你的用户名>/work-safety-advisor ~/.claude/skills/work-safety-advisor
+git clone https://github.com/tdbzz7510/work-safety-advisor ~/.claude/skills/work-safety-advisor
 
 # Cursor
-git clone https://github.com/<你的用户名>/work-safety-advisor ~/.cursor/skills/work-safety-advisor
+git clone https://github.com/tdbzz7510/work-safety-advisor ~/.cursor/skills/work-safety-advisor
 ```
 
 安装后无需重启，描述需求即可自动触发。
